@@ -72,7 +72,7 @@ public class StringMethod {
 		System.out.println(result);                 */
 		
 		String B1 = "Muhatar";
-		System.out.println(B1.endsWith("R"));  // true
+//		System.out.println(B1.endsWith("R"));  // true
 		
 	}
 
