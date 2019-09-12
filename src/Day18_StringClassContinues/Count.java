@@ -32,11 +32,12 @@ public class Count {
 		System.out.println(report);
 
 		if (count1 == 0) {
-		  System.out.println("Total price: "+  (count2 * price2) + (count3 * price3));
+		  System.out.println("Total price: "+  (count2 * price2) + (count3 * price3));//
 		} if (count2 == 0) {
 		  System.out.println("Total price: " + (count1 * price1) + (count3 * price3));
 		 } if (count3 == 0) {
 		  System.out.println("Total price: " + (count1 * price1) + (count2* price2));
+		  //
 	}
 	}
 }
