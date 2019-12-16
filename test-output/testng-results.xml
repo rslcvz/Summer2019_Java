@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83" started-at="2019-12-13T19:23:16 EST" finished-at="2019-12-13T19:23:16 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83" started-at="2019-12-13T19:23:16 EST" finished-at="2019-12-13T19:23:16 EST">
+      <class name="day63_JavaRecap.ArrayList1">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:day63_JavaRecap.ArrayList1@6fc6f14e]" name="Demo" duration-ms="12" started-at="2019-12-13T19:23:16 EST" finished-at="2019-12-13T19:23:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method status="PASS" signature="SecondTest()[pri:0, instance:day63_JavaRecap.ArrayList1@6fc6f14e]" name="SecondTest" duration-ms="13" started-at="2019-12-13T19:23:16 EST" finished-at="2019-12-13T19:23:16 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+      </class> <!-- day63_JavaRecap.ArrayList1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

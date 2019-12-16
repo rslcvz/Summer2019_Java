@@ -73,6 +73,7 @@ public class StringMethod {
 		
 		String B1 = "Muhatar";
 //		System.out.println(B1.endsWith("R"));  // true
+		B1.length()
 		
 	}
 
